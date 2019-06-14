@@ -1,5 +1,5 @@
-p,q=map(int,input().split())
-p=p^q
-q=p^q
-p=p^q
-print(p,q)
+i,j=map(int,input().split())
+i=i^j
+j=i^j
+i=i^j
+print(i,j)
