@@ -1,5 +1,5 @@
-p=int(input())
-q=int(input())
+
+p,q=map(int,input().split())
 t=p
 p=q
 q=t
