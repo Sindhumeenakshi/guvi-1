@@ -1,9 +1,9 @@
-s,t=(input().split())
-m=len(s)
-n=len(t)
-if (m==n):
-  print(t)
-elif (m>n):
-  print(s)
+si,tu=(input().split())
+o=len(si)
+p=len(tu)
+if (o==p):
+  print(tu)
+elif (o>p):
+  print(si)
 else:
-  print(t)
+  print(tu)
